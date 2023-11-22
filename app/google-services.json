@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033495019243",
+    "project_id": "diutransport-68906",
+    "storage_bucket": "diutransport-68906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033495019243:android:0ac9d1044ac3e05bae08ae",
+        "android_client_info": {
+          "package_name": "com.example.diutransport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn_m_1C9nJr8F3GbAY60dcTNr4FQlfGoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
